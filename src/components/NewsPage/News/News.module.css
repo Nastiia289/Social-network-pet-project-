@@ -1,0 +1,23 @@
+.news_block{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    max-width: 830px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    background-color: #79d6fa;
+}
+.news_block img{
+    max-width: 150px;
+    max-height: 134px;
+}
+.description{
+    padding-left: 20px;
+}
+.description a{
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 18px;
+}

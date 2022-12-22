@@ -1,0 +1,24 @@
+.settings{
+    display: flex;
+    flex-direction: column;
+}
+.settings_tittle{
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    color: gray;
+}
+.settings img{
+    margin-top: 30px;
+    max-width: 250px;
+    justify-self: center;
+    align-self: center;
+
+}
+.development{
+    color: gray;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}

@@ -8,11 +8,7 @@
       grid-template-columns: 2fr 10fr;
       grid-gap: 10px;
 }
-.nav{
-    grid-area: n;
-    background-color: #C5F1FF;
-}
-.content{
+.app-wrapper-content{
     grid-area: c;
     background-color: #AAE5FC;
 }

@@ -4,7 +4,7 @@ import s from './Profile.module.css'
 
 const Profile = () => {
   return (
-    <div className={s.content}>
+    <div>
       <div>
         <img src='https://i.pinimg.com/originals/9b/54/1c/9b541c1dc1328d12ca279e156ccfbcd3.jpg' alt='nature' className={s.my_background} />
       </div>
