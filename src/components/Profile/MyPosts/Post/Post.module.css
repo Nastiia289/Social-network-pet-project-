@@ -1,0 +1,14 @@
+.item{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.item img{
+    max-width: 60px;
+    border-radius: 50px;
+}
+.persona{
+    display: flex;
+}
+.persona p{
+    margin-left: 20px;
+}

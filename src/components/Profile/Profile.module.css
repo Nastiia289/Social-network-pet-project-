@@ -1,0 +1,23 @@
+.content{
+   background-color: #AAE5FC;
+}
+.all_content_profile{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.my_background{
+    width: 100%;
+    max-height: 250px;
+}
+.avatar{
+    max-width: 150px;
+}
+.personal_information{
+    display: flex;
+}
+.my_information{
+    margin-left: 30px;
+}
+.my_name{
+    font-weight: bold;
+}
