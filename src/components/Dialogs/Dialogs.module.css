@@ -1,0 +1,15 @@
+.dialogs_title{
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.dialogs_page{
+    padding-left: 30px;
+    padding-top: 30px;
+    display: flex;
+}
+.dialog_data{
+    margin-top: 50px;
+    padding: 10px;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,21 @@
+.all_content_profile{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.my_background{
+    width: 100%;
+    max-height: 250px;
+}
+.avatar{
+    max-width: 150px;
+}
+.personal_information{
+    display: flex;
+    
+}
+.my_information{
+    margin-left: 30px;
+}
+.my_name{
+    font-weight: bold;
+}

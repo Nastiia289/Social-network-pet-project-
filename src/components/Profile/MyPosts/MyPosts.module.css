@@ -1,6 +1,15 @@
 .my_posts{
     padding-top: 20px;
+    padding-left: 30px;
 }
 .title{
     font-weight: 500;
+}
+.textarea{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+.textarea button{
+    margin-top: 10px;
 }
