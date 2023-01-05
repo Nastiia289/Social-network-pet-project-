@@ -13,3 +13,13 @@
     padding: 10px;
     padding-bottom: 50px;
 }
+.textarea{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.textarea button{
+    margin-top: 10px;
+}
