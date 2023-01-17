@@ -1,0 +1,51 @@
+.usersPage{
+    padding: 30px;
+}
+.oneUsers{
+    margin-bottom: 30px;
+    display: flex;
+}
+.userPhoto{
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 15px;
+}
+.followed{
+    background-color:#aafcea;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    min-width: 90px;
+    max-width: 90px;
+}
+.unfollowed{
+    background-color:#fcaabc;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    min-width: 90px;
+    max-width: 90px;
+}
+.personalInfoName{
+    padding-top: 15px;
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.personalInfo{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 100px;
+}
+.personalInfoStatus{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.personalUserInfo{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.userPesonal {
+    width: 200px;
+    word-break: break-all;
+}
